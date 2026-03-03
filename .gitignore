@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+
+# Project output
+maze.txt
